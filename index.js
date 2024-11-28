@@ -15,8 +15,8 @@ app.use(express.json());
 const userRoutes = require("./routes/users");
 
 
-
-// User
+// =====================================================================
+// Users
 app.use("/users", userRoutes);
 
 
