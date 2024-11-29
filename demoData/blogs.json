@@ -1,44 +1,104 @@
 [
-    {
-      "title": "10 Tips for Choosing the Perfect Online Store Platform",
-      "date": "Oct 15 2024",
-      "author": "Kawser",
-      "description": "Choosing the right e-commerce platform is one of the most critical decisions for any online business. From ease of use to scalability, each platform offers unique features tailored to different needs. This blog explores essential tips, including evaluating your business size, considering integrations with payment gateways, understanding pricing models, and ensuring mobile responsiveness. We also highlight the top platforms in 2024 and discuss how to choose the one that aligns with your goals.",
-      "image": "https://i.ibb.co.com/dgZyddF/Home.png"
-    },
-    {
-      "title": "How to Optimize Your Product Listings for More Sales",
-      "date": "Oct 20 2024",
-      "author": "Kawser",
-      "description": "A well-optimized product listing is the cornerstone of any successful e-commerce store. In this guide, we delve into the key components of a compelling listing, including crafting detailed and engaging product descriptions, using professional-grade images, and leveraging SEO keywords to improve visibility. Additionally, discover the importance of pricing strategies, product categorization, and customer reviews in boosting sales. Learn how to turn browsers into buyers with effective optimization techniques.",
-      "image": "https://i.ibb.co.com/h7Zzdd1/vu3h-Nj2-Y64-Kxhdf-X63-FNBg.webp"
-    },
-    {
-      "title": "The Rise of Mobile Shopping: What Retailers Need to Know",
-      "date": "Oct 25 2024",
-      "author": "Kawser",
-      "description": "Mobile shopping is no longer a trend—it's the future of e-commerce. With over 70% of online transactions now happening on mobile devices, retailers must prioritize mobile optimization. This article covers the critical elements of a mobile-friendly site, including responsive design, streamlined checkout processes, and faster page load times. We also explore emerging technologies like voice shopping and mobile apps that can enhance the shopping experience for customers on the go.",
-      "image": "https://i.ibb.co.com/LggXKtr/1657263712909.jpg"
-    },
-    {
-      "title": "Understanding Customer Reviews and Their Impact on Sales",
-      "date": "Nov 01 2024",
-      "author": "Kawser",
-      "description": "Customer reviews are a powerful tool for building trust and driving sales. Positive reviews act as social proof, reassuring potential buyers of the quality of your products. This blog dives into the psychology of reviews, why they matter, and how to encourage satisfied customers to leave feedback. You'll also learn how to respond to negative reviews constructively, and how to use review analytics to identify areas for improvement and refine your product offerings.",
-      "image": "https://i.ibb.co.com/syvgWHm/customer-reviews-63d8b1a454172-sej.webp"
-    },
-    {
-      "title": "Top Trends in E-Commerce for 2024 You Need to Embrace",
-      "date": "Nov 05 2024",
-      "author": "Kawser",
-      "description": "The e-commerce landscape is constantly evolving, and staying ahead requires businesses to adapt to emerging trends. In 2024, some of the most prominent trends include the rise of AI-driven personalization, voice search optimization, and sustainable packaging. This article provides an in-depth look at these trends and offers actionable strategies to incorporate them into your business. Discover how to use data analytics, social commerce, and green initiatives to stay competitive in the market.",
-      "image": "https://i.ibb.co.com/rsJsF0j/download-9.png"
-    },
-    {
-      "title": "The Importance of Fast Shipping in Building Customer Loyalty",
-      "date": "Nov 10 2024",
-      "author": "Kawser",
-      "description": "In the era of same-day delivery, fast and reliable shipping has become a top priority for customers. This blog explains why efficient shipping is vital for building trust and loyalty and how delayed shipments can negatively impact your brand's reputation. We also cover strategies to improve your logistics, such as partnering with reliable couriers, offering multiple shipping options, and utilizing warehouse management systems. Learn how to create a seamless delivery experience that keeps customers coming back.",
-      "image": "https://i.ibb.co.com/BsbYxPy/download-10.png"
-    }
-  ]  
+  {
+    "title": "10 Tips for Choosing the Perfect Online Store Platform",
+    "date": "Nov 10 2024",
+    "author": "Kawser",
+    "description": "Choosing the right e-commerce platform is one of the most critical decisions for any online business. From ease of use to scalability, each platform offers unique features tailored to different needs. This blog explores essential tips, including evaluating your business size, considering integrations with payment gateways, understanding pricing models, and ensuring mobile responsiveness. We also highlight the top platforms in 2024 and discuss how to choose the one that aligns with your goals.",
+    "image": "https://i.ibb.co.com/dgZyddF/Home.png",
+    "comments": [
+      {
+        "name": "Alex J.",
+        "comment": "This is such a helpful guide! I didn't realize how important scalability was for a growing business. Definitely considering some of these platforms now."
+      },
+      {
+        "name": "Samantha P.",
+        "comment": "Great tips! I especially love the focus on mobile responsiveness. It's such a crucial aspect that I often overlook."
+      }
+    ]
+  },
+  {
+    "title": "How to Optimize Your Product Listings for More Sales",
+    "date": "Nov 02 2024",
+    "author": "Kawser",
+    "description": "A well-optimized product listing is the cornerstone of any successful e-commerce store. In this guide, we delve into the key components of a compelling listing, including crafting detailed and engaging product descriptions, using professional-grade images, and leveraging SEO keywords to improve visibility. Additionally, discover the importance of pricing strategies, product categorization, and customer reviews in boosting sales. Learn how to turn browsers into buyers with effective optimization techniques.",
+    "image": "https://i.ibb.co.com/h7Zzdd1/vu3h-Nj2-Y64-Kxhdf-X63-FNBg.webp",
+    "comments": [
+      {
+        "name": "Chris M.",
+        "comment": "The SEO tips were spot on! I implemented some changes to my listings, and I’ve already seen an increase in traffic."
+      },
+      {
+        "name": "Olivia R.",
+        "comment": "Love the advice on pricing strategies! Pricing can make such a big difference, and this guide was really eye-opening."
+      }
+    ]
+  },
+  {
+    "title": "The Rise of Mobile Shopping: What Retailers Need to Know",
+    "date": "Oct 25 2024",
+    "author": "Kawser",
+    "description": "Mobile shopping is no longer a trend—it's the future of e-commerce. With over 70% of online transactions now happening on mobile devices, retailers must prioritize mobile optimization. This article covers the critical elements of a mobile-friendly site, including responsive design, streamlined checkout processes, and faster page load times. We also explore emerging technologies like voice shopping and mobile apps that can enhance the shopping experience for customers on the go.",
+    "image": "https://i.ibb.co.com/LggXKtr/1657263712909.jpg",
+    "comments": [
+      {
+        "name": "Diana W.",
+        "comment": "Mobile optimization is a game changer! Thanks for breaking it down. Will definitely be making some changes to my site soon."
+      },
+      {
+        "name": "Jordan C.",
+        "comment": "Great insights into voice shopping and mobile apps. As a retailer, I can see how these technologies will shape the future of e-commerce."
+      }
+    ]
+  },
+  {
+    "title": "Understanding Customer Reviews and Their Impact on Sales",
+    "date": "Nov 01 2024",
+    "author": "Kawser",
+    "description": "Customer reviews are a powerful tool for building trust and driving sales. Positive reviews act as social proof, reassuring potential buyers of the quality of your products. This blog dives into the psychology of reviews, why they matter, and how to encourage satisfied customers to leave feedback. You'll also learn how to respond to negative reviews constructively, and how to use review analytics to identify areas for improvement and refine your product offerings.",
+    "image": "https://i.ibb.co.com/syvgWHm/customer-reviews-63d8b1a454172-sej.webp",
+    "comments": [
+      {
+        "name": "Liam K.",
+        "comment": "I always knew reviews were important, but this article really gave me a deeper understanding of how to leverage them effectively."
+      },
+      {
+        "name": "Emma T.",
+        "comment": "Responding to negative reviews is something I need to focus on more. Great advice on how to handle them professionally."
+      }
+    ]
+  },
+  {
+    "title": "Top Trends in E-Commerce for 2024 You Need to Embrace",
+    "date": "Oct 05 2024",
+    "author": "Kawser",
+    "description": "The e-commerce landscape is constantly evolving, and staying ahead requires businesses to adapt to emerging trends. In 2024, some of the most prominent trends include the rise of AI-driven personalization, voice search optimization, and sustainable packaging. This article provides an in-depth look at these trends and offers actionable strategies to incorporate them into your business. Discover how to use data analytics, social commerce, and green initiatives to stay competitive in the market.",
+    "image": "https://i.ibb.co.com/rsJsF0j/download-9.png",
+    "comments": [
+      {
+        "name": "Jacob H.",
+        "comment": "AI personalization sounds like the future! I’m excited to start integrating this into my store’s experience."
+      },
+      {
+        "name": "Mia F.",
+        "comment": "Sustainable packaging is definitely a trend I can get behind. It's great to see more businesses prioritizing it."
+      }
+    ]
+  },
+  {
+    "title": "The Importance of Fast Shipping in Building Customer Loyalty",
+    "date": "Oct 10 2024",
+    "author": "Kawser",
+    "description": "In the era of same-day delivery, fast and reliable shipping has become a top priority for customers. This blog explains why efficient shipping is vital for building trust and loyalty and how delayed shipments can negatively impact your brand's reputation. We also cover strategies to improve your logistics, such as partnering with reliable couriers, offering multiple shipping options, and utilizing warehouse management systems. Learn how to create a seamless delivery experience that keeps customers coming back.",
+    "image": "https://i.ibb.co.com/BsbYxPy/download-10.png",
+    "comments": [
+      {
+        "name": "Hannah B.",
+        "comment": "Fast shipping has really become a deal-breaker for me as a customer. It’s so true that delays can hurt a brand’s reputation."
+      },
+      {
+        "name": "Ethan S.",
+        "comment": "Great tips on improving logistics. I’ll be looking into partnering with new couriers to offer better shipping options for my customers."
+      }
+    ]
+  }
+]

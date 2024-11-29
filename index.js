@@ -15,6 +15,7 @@ app.use(express.json());
 const userRoutes = require("./routes/users");
 const offerProductsRoutes = require("./routes/offerProducts");
 const blogsRoutes = require("./routes/blogs");
+const productsRoutes = require("./routes/products");
 
 
 // =====================================================================
@@ -22,6 +23,7 @@ const blogsRoutes = require("./routes/blogs");
 app.use("/users", userRoutes);
 app.use("/offerProducts", offerProductsRoutes);
 app.use("/blogs", blogsRoutes);
+app.use("/products", productsRoutes);
 
 
 // Default route for server status
