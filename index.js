@@ -14,12 +14,14 @@ app.use(express.json());
 // Import route files
 const userRoutes = require("./routes/users");
 const offerProductsRoutes = require("./routes/offerProducts");
+const blogsRoutes = require("./routes/blogs");
 
 
 // =====================================================================
 // Users
 app.use("/users", userRoutes);
 app.use("/offerProducts", offerProductsRoutes);
+app.use("/blogs", blogsRoutes);
 
 
 // Default route for server status

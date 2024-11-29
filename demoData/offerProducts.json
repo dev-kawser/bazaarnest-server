@@ -6,10 +6,27 @@
         "color": "Dark Blue",
         "shortDescription": "Sleek and comfortable slim fit jeans for everyday wear",
         "bigDescription": "Crafted from premium denim, these slim fit jeans offer the perfect blend of style and comfort. Featuring a modern cut that flatters your physique, these jeans are ideal for both casual and semi-formal occasions. The durable fabric ensures long-lasting wear and maintains its shape wash after wash.",
-        "img1": "https://i.ibb.co.com/hyBWPYm/CLARK-COBBLE-DARK-RETRO0-1.webp",
-        "img2": "https://i.ibb.co.com/g4bfF8y/Classic-Style-Youth-Men-prime-S-Slim-Straight-Thin-Denim-Jeans.jpg",
-        "img3": "https://i.ibb.co.com/tsLfMDh/206781s2.webp",
-        "additionalInformation": "Specifications: Weight: 1.2kg, Dimensions: 40x30x5 cm, Material: 98% Cotton 2% Elastance, Warranty: 1 Year",
+        "img1": "https://i.ibb.co/hyBWPYm/CLARK-COBBLE-DARK-RETRO0-1.webp",
+        "img2": "https://i.ibb.co/g4bfF8y/Classic-Style-Youth-Men-prime-S-Slim-Straight-Thin-Denim-Jeans.jpg",
+        "img3": "https://i.ibb.co/tsLfMDh/206781s2.webp",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.2kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x30x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "98% Cotton, 2% Elastance"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "Michael T.",
@@ -32,10 +49,27 @@
         "color": "Charcoal Gray",
         "shortDescription": "High-performance hoodie for workout and casual wear",
         "bigDescription": "Engineered for maximum comfort and performance, this athletic hoodie features moisture-wicking technology and a breathable fabric. Perfect for gym sessions, outdoor activities, or lounging. The ergonomic design provides freedom of movement while keeping you warm and stylish.",
-        "img1": "https://i.ibb.co.com/w6Q3RMJ/download-2.jpg",
-        "img2": "https://i.ibb.co.com/PCMsvYw/download.jpg",
-        "img3": "https://i.ibb.co.com/xmB8KvS/download-1.jpg",
-        "additionalInformation": "Specifications: Weight: 0.8kg, Dimensions: 50x40x3 cm, Material: Polyester Blend, Warranty: 2 Years",
+        "img1": "https://i.ibb.co/w6Q3RMJ/download-2.jpg",
+        "img2": "https://i.ibb.co/PCMsvYw/download.jpg",
+        "img3": "https://i.ibb.co/xmB8KvS/download-1.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.8kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x40x3 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Polyester Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Jason K.",
@@ -58,10 +92,27 @@
         "color": "Navy Blue",
         "shortDescription": "Premium wool blend suit for professional settings",
         "bigDescription": "Elevate your professional wardrobe with this meticulously tailored suit. Made from a premium wool blend, it offers exceptional comfort and a sharp, sophisticated look. The suit features a modern slim fit, reinforced stitching, and a luxurious feel that commands attention in any business setting.",
-        "img1": "https://i.ibb.co.com/zsL4T6H/download.jpg",
-        "img2": "https://i.ibb.co.com/0JYSSCX/download-1.jpg",
-        "img3": "https://i.ibb.co.com/zsL4T6H/download.jpg",
-        "additionalInformation": "Specifications: Weight: 2.5kg, Dimensions: 60x50x10 cm, Material: 70% Wool 30% Polyester, Warranty: 2 Years",
+        "img1": "https://i.ibb.co/zsL4T6H/download.jpg",
+        "img2": "https://i.ibb.co/0JYSSCX/download-1.jpg",
+        "img3": "https://i.ibb.co/zsL4T6H/download.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "2.5kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "60x50x10 cm"
+            },
+            {
+                "label": "Material",
+                "value": "70% Wool, 30% Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Robert S.",
@@ -84,10 +135,27 @@
         "color": "Brown",
         "shortDescription": "Classic leather jacket with modern styling",
         "bigDescription": "A timeless piece that combines vintage inspiration with contemporary design. This genuine leather bomber jacket features a soft, supple leather exterior, warm inner lining, and classic details like ribbed cuffs and waistband. Perfect for adding an edge to any outfit.",
-        "img1": "https://i.ibb.co.com/ydjcKfp/download.jpg",
-        "img2": "https://i.ibb.co.com/ydjcKfp/download.jpg",
-        "img3": "https://i.ibb.co.com/ydjcKfp/download.jpg",
-        "additionalInformation": "Specifications: Weight: 1.8kg, Dimensions: 55x45x8 cm, Material: Genuine Leather, Warranty: 3 Years",
+        "img1": "https://i.ibb.co/ydjcKfp/download.jpg",
+        "img2": "https://i.ibb.co/ydjcKfp/download.jpg",
+        "img3": "https://i.ibb.co/ydjcKfp/download.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.8kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "55x45x8 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Genuine Leather"
+            },
+            {
+                "label": "Warranty",
+                "value": "3 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Jake W.",
@@ -110,10 +178,27 @@
         "color": "Black",
         "shortDescription": "Breathable running shorts for maximum performance",
         "bigDescription": "Designed for serious runners, these lightweight shorts offer maximum breathability and freedom of movement. Features include moisture-wicking fabric, an inner compression layer, and a secure zip pocket for essentials. Perfect for intense training or casual workouts.",
-        "img1": "https://i.ibb.co.com/tbBvQDZ/download.jpg",
-        "img2": "https://i.ibb.co.com/tbBvQDZ/download.jpg",
-        "img3": "https://i.ibb.co.com/tbBvQDZ/download.jpg",
-        "additionalInformation": "Specifications: Weight: 0.3kg, Dimensions: 40x25x2 cm, Material: Quick-Dry Polyester, Warranty: 1 Year",
+        "img1": "https://i.ibb.co/tbBvQDZ/download.jpg",
+        "img2": "https://i.ibb.co/tbBvQDZ/download.jpg",
+        "img3": "https://i.ibb.co/tbBvQDZ/download.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.3kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x25x2 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Quick-Dry Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "Ryan T.",
@@ -139,7 +224,24 @@
         "img1": "https://i.ibb.co.com/bdbZQ0d/download-1.jpg",
         "img2": "https://i.ibb.co.com/bdbZQ0d/download-1.jpg",
         "img3": "https://i.ibb.co.com/bdbZQ0d/download-1.jpg",
-        "additionalInformation": "Specifications: Weight: 0.5kg, Dimensions: 45x30x3 cm, Material: 100% Cotton, Warranty: 1 Year",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.5kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "45x30x3 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "Tom H.",
@@ -165,7 +267,24 @@
         "img1": "https://i.ibb.co.com/ZYW6Hc1/download-2.jpg",
         "img2": "https://i.ibb.co.com/ZYW6Hc1/download-2.jpg",
         "img3": "https://i.ibb.co.com/ZYW6Hc1/download-2.jpg",
-        "additionalInformation": "Specifications: Weight: 0.4kg, Dimensions: 40x25x2 cm, Material: Thermal Polyester Blend, Warranty: 2 Years",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.4kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x25x2 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Thermal Polyester Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Mark S.",
@@ -191,7 +310,24 @@
         "img1": "https://i.ibb.co.com/7VR9PQ6/download-3.jpg",
         "img2": "https://i.ibb.co.com/7VR9PQ6/download-3.jpg",
         "img3": "https://i.ibb.co.com/7VR9PQ6/download-3.jpg",
-        "additionalInformation": "Specifications: Weight: 1.1kg, Dimensions: 45x35x6 cm, Material: Stretch Cotton Blend, Warranty: 2 Years",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.1kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "45x35x6 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Stretch Cotton Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Brian K.",
@@ -217,7 +353,24 @@
         "img1": "https://i.ibb.co.com/SRnNTSh/download-4.jpg",
         "img2": "https://i.ibb.co.com/SRnNTSh/download-4.jpg",
         "img3": "https://i.ibb.co.com/SRnNTSh/download-4.jpg",
-        "additionalInformation": "Specifications: Weight: 0.3kg, Dimensions: 40x25x2 cm, Material: Performance Polyester, Warranty: 2 Years",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.3kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x25x2 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Performance Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Andrew L.",
@@ -243,7 +396,24 @@
         "img1": "https://i.ibb.co.com/gdLcgmc/download-5.jpg",
         "img2": "https://i.ibb.co.com/gdLcgmc/download-5.jpg",
         "img3": "https://i.ibb.co.com/gdLcgmc/download-5.jpg",
-        "additionalInformation": "Specifications: Weight: 1.0kg, Dimensions: 45x35x5 cm, Material: 100% Cotton, Warranty: 1 Year",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.0kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "45x35x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "John D.",
@@ -269,7 +439,24 @@
         "img1": "https://i.ibb.co.com/Wv7Nr6n/download-6.jpg",
         "img2": "https://i.ibb.co.com/Wv7Nr6n/download-6.jpg",
         "img3": "https://i.ibb.co.com/Wv7Nr6n/download-6.jpg",
-        "additionalInformation": "Specifications: Weight: 0.6kg, Dimensions: 50x40x3 cm, Material: Lightweight Nylon, Warranty: 2 Years",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.6kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x40x3 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Lightweight Nylon"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Tim W.",
@@ -295,7 +482,24 @@
         "img1": "https://i.ibb.co.com/y4hXyx8/download-7.jpg",
         "img2": "https://i.ibb.co.com/y4hXyx8/download-7.jpg",
         "img3": "https://i.ibb.co.com/y4hXyx8/download-7.jpg",
-        "additionalInformation": "Specifications: Weight: 0.8kg, Dimensions: 50x35x5 cm, Material: Cotton-Polyester Blend, Warranty: 1 Year",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.8kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x35x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Cotton-Polyester Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "Liam G.",
@@ -321,7 +525,24 @@
         "img1": "https://i.ibb.co.com/7WbRwjz/download-8.jpg",
         "img2": "https://i.ibb.co.com/7WbRwjz/download-8.jpg",
         "img3": "https://i.ibb.co.com/7WbRwjz/download-8.jpg",
-        "additionalInformation": "Specifications: Weight: 1.0kg, Dimensions: 55x40x6 cm, Material: 80% Cotton 20% Polyester, Warranty: 1 Year",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.0kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "55x40x6 cm"
+            },
+            {
+                "label": "Material",
+                "value": "80% Cotton 20% Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "Emma F.",
@@ -347,7 +568,24 @@
         "img1": "https://i.ibb.co.com/8xsQ4T4/download-9.jpg",
         "img2": "https://i.ibb.co.com/8xsQ4T4/download-9.jpg",
         "img3": "https://i.ibb.co.com/8xsQ4T4/download-9.jpg",
-        "additionalInformation": "Specifications: Weight: 1.3kg, Dimensions: 55x40x8 cm, Material: Polyester-Spandex Blend, Warranty: 2 Years",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.3kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "55x40x8 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Polyester-Spandex Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Noah T.",
@@ -373,7 +611,24 @@
         "img1": "https://i.ibb.co.com/mC97grk/download-10.jpg",
         "img2": "https://i.ibb.co.com/mC97grk/download-10.jpg",
         "img3": "https://i.ibb.co.com/mC97grk/download-10.jpg",
-        "additionalInformation": "Specifications: Weight: 1.2kg, Dimensions: 50x35x6 cm, Material: 60% Wool 40% Polyester, Warranty: 2 Years",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.2kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x35x6 cm"
+            },
+            {
+                "label": "Material",
+                "value": "60% Wool 40% Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "James C.",
@@ -399,7 +654,24 @@
         "img1": "https://i.ibb.co.com/Lh9c75C/download-11.jpg",
         "img2": "https://i.ibb.co.com/Lh9c75C/download-11.jpg",
         "img3": "https://i.ibb.co.com/Lh9c75C/download-11.jpg",
-        "additionalInformation": "Specifications: Weight: 0.3kg, Dimensions: 40x30x4 cm, Material: 100% Cotton, Warranty: 1 Year",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.3kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x30x4 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "Charlotte R.",
@@ -425,7 +697,24 @@
         "img1": "https://i.ibb.co.com/1LkLq42/download-12.jpg",
         "img2": "https://i.ibb.co.com/1LkLq42/download-12.jpg",
         "img3": "https://i.ibb.co.com/1LkLq42/download-12.jpg",
-        "additionalInformation": "Specifications: Weight: 1.0kg, Dimensions: 50x40x5 cm, Material: Cotton Denim, Warranty: 1 Year",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.0kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x40x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Cotton Denim"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "Ethan L.",
@@ -451,7 +740,24 @@
         "img1": "https://i.ibb.co.com/Hq6wRkq/download-13.jpg",
         "img2": "https://i.ibb.co.com/Hq6wRkq/download-13.jpg",
         "img3": "https://i.ibb.co.com/Hq6wRkq/download-13.jpg",
-        "additionalInformation": "Specifications: Weight: 0.7kg, Dimensions: 50x35x5 cm, Material: 95% Cotton 5% Elastane, Warranty: 1 Year",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.7kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x35x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "95% Cotton 5% Elastane"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
         "reviews": [
             {
                 "name": "Kyle P.",
@@ -477,7 +783,24 @@
         "img1": "https://i.ibb.co.com/686RfsR/download-14.jpg",
         "img2": "https://i.ibb.co.com/686RfsR/download-14.jpg",
         "img3": "https://i.ibb.co.com/686RfsR/download-14.jpg",
-        "additionalInformation": "Specifications: Weight: 1.4kg, Dimensions: 60x45x10 cm, Material: 70% Wool 30% Polyester, Warranty: 3 Years",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.4kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "60x45x10 cm"
+            },
+            {
+                "label": "Material",
+                "value": "70% Wool 30% Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "3 Years"
+            }
+        ],
         "reviews": [
             {
                 "name": "Oliver G.",
