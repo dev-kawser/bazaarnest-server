@@ -12,3 +12,18 @@ exports.addCart = async (req, res) => {
         res.status(500).json({ message: "Internal server error" });
     }
 };
+
+// GET /carts by user email
+exports.getCartsByUserEmail = async (req, res) => {
+    try {
+        const email = req.params.email;
+        const carts = await cartsCollection
+            .find({ "cartData.email": email })
+            .toArray();
+
+        res.json(carts);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Internal server error" });
+    }
+};
