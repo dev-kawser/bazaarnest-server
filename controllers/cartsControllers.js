@@ -42,3 +42,32 @@ exports.deleteCartsByUserEmail = async (req, res) => {
         res.status(500).json({ message: "Internal server error" });
     }
 };
+
+// PATCH /carts/:cartId
+exports.updateCartQuantity = async (req, res) => {
+    try {
+        const { cartId } = req.params;
+        const { newQuantity } = req.body;
+
+        // Validate newQuantity
+        if (newQuantity < 1) {
+            return res.status(400).json({ message: "Quantity must be at least 1" });
+        }
+
+        // Update quantity in the database
+        const result = await cartsCollection.updateOne(
+            { _id: new ObjectId(cartId) },
+            { $set: { "cartData.productQuantity": newQuantity } }
+        );
+
+        // Check if the update was successful
+        if (result.matchedCount === 0) {
+            return res.status(404).json({ message: "Cart item not found" });
+        }
+
+        res.json({ message: "Cart updated successfully" });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Internal server error" });
+    }
+};
