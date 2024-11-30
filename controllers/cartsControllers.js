@@ -27,3 +27,18 @@ exports.getCartsByUserEmail = async (req, res) => {
         res.status(500).json({ message: "Internal server error" });
     }
 };
+
+// DELETE /carts by user email
+exports.deleteCartsByUserEmail = async (req, res) => {
+    try {
+        const email = req.params.email;
+        // Perform the deletion based on the user's email
+        const result = await cartsCollection.deleteMany({ "cartData.email": email });
+
+        // Respond with success or no records deleted
+        res.json({ message: result.deletedCount > 0 ? "Carts deleted successfully" : "No carts found to delete" });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Internal server error" });
+    }
+};
