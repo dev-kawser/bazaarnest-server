@@ -1,0 +1,991 @@
+[
+    {
+        "productTitle": "Luxury Leather Jacket",
+        "brand": "MotoStyle",
+        "category": "Jackets",
+        "color": "Black",
+        "shortDescription": "Premium leather jacket with a sleek, urban design.",
+        "bigDescription": "This stylish black leather jacket features a tailored fit, with high-quality genuine leather construction for durability and sophistication. It comes with a zip-up front and side pockets, making it a versatile addition to any wardrobe, perfect for both casual and more formal looks.",
+        "img1": "https://i.ibb.co.com/z45RJHy/download-15.jpg",
+        "img2": "https://i.ibb.co.com/z45RJHy/download-15.jpg",
+        "img3": "https://i.ibb.co.com/z45RJHy/download-15.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.5kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x40x10 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Genuine Leather"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Jessica B.",
+                "comment": "Love the feel and fit of this jacket! It’s sleek and perfect for winter."
+            },
+            {
+                "name": "Chris W.",
+                "comment": "A bit on the pricey side, but the quality is unbeatable."
+            }
+        ],
+        "price": 199.99,
+        "originalPrice": 249.99,
+        "discount": 10,
+        "publicationDate": "2024-11-28"
+    },
+    {
+        "productTitle": "Classic Crew Neck T-Shirt",
+        "brand": "NextGen Apparel",
+        "category": "T-Shirts",
+        "color": "Charcoal Grey",
+        "shortDescription": "Comfortable, breathable crew neck t-shirt for everyday wear.",
+        "bigDescription": "This classic crew neck t-shirt is made from soft, breathable cotton fabric, designed to keep you comfortable throughout the day. Its versatile color and fit make it perfect for casual outings, layering, or as a staple in your wardrobe.",
+        "img1": "https://i.ibb.co.com/4R4wJMZ/download-16.jpg",
+        "img2": "https://i.ibb.co.com/4R4wJMZ/download-16.jpg",
+        "img3": "https://i.ibb.co.com/4R4wJMZ/download-16.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.2kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "30x25x2 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "No Warranty"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Tom H.",
+                "comment": "Great fit and very soft. Perfect for casual wear."
+            },
+            {
+                "name": "James M.",
+                "comment": "Comfortable and breathable fabric. Definitely a wardrobe essential."
+            }
+        ],
+        "price": 19.99,
+        "originalPrice": 24.99,
+        "discount": 20,
+        "publicationDate": "2024-11-30"
+    },
+    {
+        "productTitle": "Slim Fit Chino Pants",
+        "brand": "UrbanThreads",
+        "category": "Pants",
+        "color": "Olive Green",
+        "shortDescription": "Versatile slim-fit chinos for a sharp and stylish look.",
+        "bigDescription": "These slim-fit chinos offer a sleek, tailored fit that pairs perfectly with both casual and semi-formal attire. Made from a stretch cotton blend, they provide comfort and flexibility while maintaining a sharp, professional look.",
+        "img1": "https://i.ibb.co.com/12mM3CQ/download-17.jpg",
+        "img2": "https://i.ibb.co.com/12mM3CQ/download-17.jpg",
+        "img3": "https://i.ibb.co.com/12mM3CQ/download-17.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.5kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x30x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "98% Cotton, 2% Elastane"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Ryan K.",
+                "comment": "Great fit and quality. Can be dressed up or down depending on the occasion."
+            },
+            {
+                "name": "Ben L.",
+                "comment": "Comfortable and stylish chinos. Highly recommend for casual wear."
+            }
+        ],
+        "price": 49.99,
+        "originalPrice": 69.99,
+        "discount": 29,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Casual Button-Down Shirt",
+        "brand": "Levi's",
+        "category": "Shirts",
+        "color": "Light Blue",
+        "shortDescription": "A versatile button-down shirt with a relaxed fit, ideal for everyday wear.",
+        "bigDescription": "This button-down shirt from Levi's is crafted from soft, breathable cotton. Its light blue color and relaxed fit make it a versatile option for both casual and semi-formal events. Pair it with jeans or chinos for a polished yet laid-back look.",
+        "img1": "https://i.ibb.co.com/FzwnVdw/download-18.jpg",
+        "img2": "https://i.ibb.co.com/FzwnVdw/download-18.jpg",
+        "img3": "https://i.ibb.co.com/FzwnVdw/download-18.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.4kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "35x25x3 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Sam C.",
+                "comment": "Great shirt. It's comfortable and fits well. Perfect for casual outings."
+            },
+            {
+                "name": "Michael F.",
+                "comment": "The fabric is soft and breathable. Definitely a go-to for the warmer months."
+            }
+        ],
+        "price": 39.99,
+        "originalPrice": 49.99,
+        "discount": 20,
+        "publicationDate": "2024-11-28"
+    },
+    {
+        "productTitle": "Padded Winter Jacket",
+        "brand": "NorthPeak",
+        "category": "Jackets",
+        "color": "Navy Blue",
+        "shortDescription": "Warm and insulated jacket to keep you cozy in cold weather.",
+        "bigDescription": "The NorthPeak padded winter jacket offers excellent insulation to keep you warm on even the coldest days. Its navy blue color and stylish design make it perfect for both outdoor activities and urban wear. Featuring a zippered front and adjustable cuffs for a snug fit.",
+        "img1": "https://i.ibb.co.com/FDyP4qb/download-19.jpg",
+        "img2": "https://i.ibb.co.com/FDyP4qb/download-19.jpg",
+        "img3": "https://i.ibb.co.com/FDyP4qb/download-19.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.2kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x40x10 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Luke W.",
+                "comment": "Keeps me warm even in freezing temperatures. A must-have for winter."
+            },
+            {
+                "name": "Aaron J.",
+                "comment": "Stylish and practical. Perfect for both outdoor activities and daily wear."
+            }
+        ],
+        "price": 119.99,
+        "originalPrice": 159.99,
+        "discount": 25,
+        "publicationDate": "2024-11-27"
+    },
+    {
+        "productTitle": "Athletic Jogger Pants",
+        "brand": "FlexFit",
+        "category": "Pants",
+        "color": "Black",
+        "shortDescription": "Comfortable and functional jogger pants for workouts or casual wear.",
+        "bigDescription": "FlexFit jogger pants are designed for optimal comfort during your workouts. Made from a soft cotton blend with an elastic waistband and cuffs, they offer flexibility and a secure fit. These versatile pants are perfect for both the gym and casual outings.",
+        "img1": "https://i.ibb.co.com/dL5zyxC/download-20.jpg",
+        "img2": "https://i.ibb.co.com/dL5zyxC/download-20.jpg",
+        "img3": "https://i.ibb.co.com/dL5zyxC/download-20.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.4kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x30x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "80% Cotton, 20% Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "No Warranty"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Chris T.",
+                "comment": "Perfect for both working out and lounging around the house."
+            },
+            {
+                "name": "Daniel K.",
+                "comment": "Comfortable and great fit. I wear them almost every day!"
+            }
+        ],
+        "price": 34.99,
+        "originalPrice": 44.99,
+        "discount": 22,
+        "publicationDate": "2024-11-26"
+    },
+    {
+        "productTitle": "V-Neck Merino Wool Sweater",
+        "brand": "StyleCraft",
+        "category": "Sweaters",
+        "color": "Dark Navy",
+        "shortDescription": "Luxurious merino wool sweater with a V-neck for a smart, casual look.",
+        "bigDescription": "This V-neck merino wool sweater from StyleCraft is perfect for layering or wearing on its own. Made from 100% merino wool, it offers warmth, breathability, and softness. The dark navy color is versatile and pairs well with jeans or chinos for a refined, casual style.",
+        "img1": "https://i.ibb.co.com/0cHGfJT/download-21.jpg",
+        "img2": "https://i.ibb.co.com/0cHGfJT/download-21.jpg",
+        "img3": "https://i.ibb.co.com/0cHGfJT/download-21.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.3kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x30x3 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Merino Wool"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Ethan P.",
+                "comment": "Soft, warm, and fits perfectly. A great addition to my wardrobe."
+            },
+            {
+                "name": "Noah J.",
+                "comment": "Nice, lightweight sweater that still keeps me warm during the colder months."
+            }
+        ],
+        "price": 79.99,
+        "originalPrice": 99.99,
+        "discount": 20,
+        "publicationDate": "2024-11-25"
+    },
+    {
+        "productTitle": "Slim Fit Dress Pants",
+        "brand": "TailorMade",
+        "category": "Pants",
+        "color": "Charcoal",
+        "shortDescription": "Sharp and tailored slim-fit dress pants for formal occasions.",
+        "bigDescription": "TailorMade's slim fit dress pants are designed for a sleek, modern silhouette. Made from high-quality wool, these pants offer both style and comfort for formal occasions. Pair them with a button-up shirt or blazer for a polished look.",
+        "img1": "https://i.ibb.co.com/p1J4QbT/download-22.jpg",
+        "img2": "https://i.ibb.co.com/p1J4QbT/download-22.jpg",
+        "img3": "https://i.ibb.co.com/p1J4QbT/download-22.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.6kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "45x35x4 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Wool Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Jack T.",
+                "comment": "These pants fit like a glove and are perfect for office wear."
+            },
+            {
+                "name": "Liam D.",
+                "comment": "Well-made and comfortable for long workdays. Highly recommend."
+            }
+        ],
+        "price": 89.99,
+        "originalPrice": 119.99,
+        "discount": 25,
+        "publicationDate": "2024-11-24"
+    },
+    {
+        "productTitle": "Quilted Bomber Jacket",
+        "brand": "Alpha Wear",
+        "category": "Jackets",
+        "color": "Army Green",
+        "shortDescription": "Stylish quilted bomber jacket for cold weather with a modern fit.",
+        "bigDescription": "The Alpha Wear quilted bomber jacket offers warmth and a sleek look with its quilted design and premium polyester exterior. Perfect for the fall or early winter months, it provides the right amount of insulation while still looking fashionable with an army green color.",
+        "img1": "https://i.ibb.co.com/YDSQwg0/download-23.jpg",
+        "img2": "https://i.ibb.co.com/YDSQwg0/download-23.jpg",
+        "img3": "https://i.ibb.co.com/YDSQwg0/download-23.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.0kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x40x8 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Chris M.",
+                "comment": "Love this jacket. Warm, stylish, and great for casual outfits."
+            },
+            {
+                "name": "Jake H.",
+                "comment": "Good fit and keeps me cozy during the cooler months."
+            }
+        ],
+        "price": 99.99,
+        "originalPrice": 129.99,
+        "discount": 23,
+        "publicationDate": "2024-11-23"
+    },
+    {
+        "productTitle": "Striped Polo Shirt",
+        "brand": "PoloClub",
+        "category": "Polo Shirts",
+        "color": "Navy/White Stripes",
+        "shortDescription": "Classic striped polo shirt with a comfortable fit for casual wear.",
+        "bigDescription": "The PoloClub striped polo shirt offers a casual yet polished look with its navy and white stripes. Made from breathable cotton, this shirt is perfect for weekend outings or as a smart-casual option for work. Its classic cut ensures a comfortable fit for all-day wear.",
+        "img1": "https://i.ibb.co.com/zfjS02w/download-24.jpg",
+        "img2": "https://i.ibb.co.com/zfjS02w/download-24.jpg",
+        "img3": "https://i.ibb.co.com/zfjS02w/download-24.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.25kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "30x25x2 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "No Warranty"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Ethan F.",
+                "comment": "Great polo shirt. Comfortable and the stripes add a nice touch."
+            },
+            {
+                "name": "Leo G.",
+                "comment": "Fits well and looks great with jeans or shorts. A go-to piece for casual wear."
+            }
+        ],
+        "price": 29.99,
+        "originalPrice": 39.99,
+        "discount": 25,
+        "publicationDate": "2024-11-22"
+    },
+    {
+        "productTitle": "Lightweight Cargo Shorts",
+        "brand": "OutdoorGear",
+        "category": "Shorts",
+        "color": "Khaki",
+        "shortDescription": "Durable and comfortable cargo shorts for outdoor activities.",
+        "bigDescription": "These lightweight cargo shorts from OutdoorGear are perfect for hiking, traveling, or everyday wear. Featuring multiple pockets for functionality and a comfortable waistband, these shorts are made from durable cotton that can handle all your outdoor adventures.",
+        "img1": "https://i.ibb.co.com/brFsDzT/download-25.jpg",
+        "img2": "https://i.ibb.co.com/brFsDzT/download-25.jpg",
+        "img3": "https://i.ibb.co.com/brFsDzT/download-25.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.35kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "35x25x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Aidan C.",
+                "comment": "Comfortable and practical. Perfect for hiking trips and outdoor activities."
+            },
+            {
+                "name": "Oliver S.",
+                "comment": "Great fit and plenty of pockets. Ideal for travel or casual outings."
+            }
+        ],
+        "price": 39.99,
+        "originalPrice": 49.99,
+        "discount": 20,
+        "publicationDate": "2024-11-21"
+    },
+    {
+        "productTitle": "Classic Slim Fit Denim Jeans",
+        "brand": "Urban Edge",
+        "category": "Pants",
+        "color": "Dark Blue",
+        "shortDescription": "Sleek and comfortable slim fit jeans for everyday wear",
+        "bigDescription": "Crafted from premium denim, these slim fit jeans offer the perfect blend of style and comfort. Featuring a modern cut that flatters your physique, these jeans are ideal for both casual and semi-formal occasions. The durable fabric ensures long-lasting wear and maintains its shape wash after wash.",
+        "img1": "https://i.ibb.co/hyBWPYm/CLARK-COBBLE-DARK-RETRO0-1.webp",
+        "img2": "https://i.ibb.co/g4bfF8y/Classic-Style-Youth-Men-prime-S-Slim-Straight-Thin-Denim-Jeans.jpg",
+        "img3": "https://i.ibb.co/tsLfMDh/206781s2.webp",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.2kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x30x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "98% Cotton, 2% Elastance"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Michael T.",
+                "comment": "Great fit and comfortable. Exactly what I was looking for in a pair of jeans."
+            },
+            {
+                "name": "David R.",
+                "comment": "Nice quality denim, runs a bit slim so size up if you prefer a looser fit."
+            }
+        ],
+        "price": 79.99,
+        "originalPrice": 99.99,
+        "discount": 20,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Performance Athletic Hoodie",
+        "brand": "FitPro Wear",
+        "category": "Sweatshirts",
+        "color": "Charcoal Gray",
+        "shortDescription": "High-performance hoodie for workout and casual wear",
+        "bigDescription": "Engineered for maximum comfort and performance, this athletic hoodie features moisture-wicking technology and a breathable fabric. Perfect for gym sessions, outdoor activities, or lounging. The ergonomic design provides freedom of movement while keeping you warm and stylish.",
+        "img1": "https://i.ibb.co/w6Q3RMJ/download-2.jpg",
+        "img2": "https://i.ibb.co/PCMsvYw/download.jpg",
+        "img3": "https://i.ibb.co/xmB8KvS/download-1.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.8kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x40x3 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Polyester Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Jason K.",
+                "comment": "Incredibly comfortable and great for workouts. Keeps me warm without overheating."
+            },
+            {
+                "name": "Chris M.",
+                "comment": "Love the fit and quality. Definitely worth the price."
+            }
+        ],
+        "price": 89.99,
+        "originalPrice": 129.99,
+        "discount": 31,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Tailored Business Suit",
+        "brand": "Executive Line",
+        "category": "Suits",
+        "color": "Navy Blue",
+        "shortDescription": "Premium wool blend suit for professional settings",
+        "bigDescription": "Elevate your professional wardrobe with this meticulously tailored suit. Made from a premium wool blend, it offers exceptional comfort and a sharp, sophisticated look. The suit features a modern slim fit, reinforced stitching, and a luxurious feel that commands attention in any business setting.",
+        "img1": "https://i.ibb.co/zsL4T6H/download.jpg",
+        "img2": "https://i.ibb.co/0JYSSCX/download-1.jpg",
+        "img3": "https://i.ibb.co/zsL4T6H/download.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "2.5kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "60x50x10 cm"
+            },
+            {
+                "label": "Material",
+                "value": "70% Wool, 30% Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Robert S.",
+                "comment": "Perfect fit and exceptional quality. Received many compliments at work."
+            },
+            {
+                "name": "Alex P.",
+                "comment": "Impressive suit that looks much more expensive than it is."
+            }
+        ],
+        "price": 249.99,
+        "originalPrice": 349.99,
+        "discount": 29,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Vintage Leather Bomber Jacket",
+        "brand": "Rebel Styles",
+        "category": "Jackets",
+        "color": "Brown",
+        "shortDescription": "Classic leather jacket with modern styling",
+        "bigDescription": "A timeless piece that combines vintage inspiration with contemporary design. This genuine leather bomber jacket features a soft, supple leather exterior, warm inner lining, and classic details like ribbed cuffs and waistband. Perfect for adding an edge to any outfit.",
+        "img1": "https://i.ibb.co/ydjcKfp/download.jpg",
+        "img2": "https://i.ibb.co/ydjcKfp/download.jpg",
+        "img3": "https://i.ibb.co/ydjcKfp/download.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.8kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "55x45x8 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Genuine Leather"
+            },
+            {
+                "label": "Warranty",
+                "value": "3 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Jake W.",
+                "comment": "Absolutely love this jacket. The leather is top-notch and it fits perfectly."
+            },
+            {
+                "name": "Marcus L.",
+                "comment": "Great quality and looks even better in person. Highly recommend!"
+            }
+        ],
+        "price": 199.99,
+        "originalPrice": 279.99,
+        "discount": 29,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Lightweight Running Shorts",
+        "brand": "SpeedMax",
+        "category": "Shorts",
+        "color": "Black",
+        "shortDescription": "Breathable running shorts for maximum performance",
+        "bigDescription": "Designed for serious runners, these lightweight shorts offer maximum breathability and freedom of movement. Features include moisture-wicking fabric, an inner compression layer, and a secure zip pocket for essentials. Perfect for intense training or casual workouts.",
+        "img1": "https://i.ibb.co/tbBvQDZ/download.jpg",
+        "img2": "https://i.ibb.co/tbBvQDZ/download.jpg",
+        "img3": "https://i.ibb.co/tbBvQDZ/download.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.3kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x25x2 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Quick-Dry Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Ryan T.",
+                "comment": "Extremely comfortable and light. Great for long-distance running."
+            },
+            {
+                "name": "Eric B.",
+                "comment": "Nice shorts with good compression and pocket for my phone."
+            }
+        ],
+        "price": 44.99,
+        "originalPrice": 59.99,
+        "discount": 25,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Classic Oxford Button-Down Shirt",
+        "brand": "Prestige Wear",
+        "category": "Shirts",
+        "color": "White",
+        "shortDescription": "Crisp and versatile button-down shirt for any occasion",
+        "bigDescription": "A wardrobe staple crafted from premium cotton fabric. This classic Oxford shirt offers a perfect balance of comfort and style. Features include a tailored fit, reinforced collar, and high-quality stitching. Ideal for both professional and casual settings.",
+        "img1": "https://i.ibb.co.com/bdbZQ0d/download-1.jpg",
+        "img2": "https://i.ibb.co.com/bdbZQ0d/download-1.jpg",
+        "img3": "https://i.ibb.co.com/bdbZQ0d/download-1.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.5kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "45x30x3 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Tom H.",
+                "comment": "Perfect fit and great quality. Looks sharp in any setting."
+            },
+            {
+                "name": "Peter G.",
+                "comment": "Comfortable shirt that holds up well after multiple washes."
+            }
+        ],
+        "price": 69.99,
+        "originalPrice": 89.99,
+        "discount": 22,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Thermal Base Layer Top",
+        "brand": "Arctic Comfort",
+        "category": "Underwear",
+        "color": "Dark Gray",
+        "shortDescription": "Advanced thermal technology base layer for extreme conditions",
+        "bigDescription": "Engineered for maximum warmth and moisture management. This base layer uses advanced thermal technology to keep you warm without bulk. Perfect for winter sports, outdoor activities, or layering under winter clothing. Ergonomic fit ensures comfort and freedom of movement.",
+        "img1": "https://i.ibb.co.com/ZYW6Hc1/download-2.jpg",
+        "img2": "https://i.ibb.co.com/ZYW6Hc1/download-2.jpg",
+        "img3": "https://i.ibb.co.com/ZYW6Hc1/download-2.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.4kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x25x2 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Thermal Polyester Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Mark S.",
+                "comment": "Incredible warmth without feeling bulky. Perfect for winter hiking."
+            },
+            {
+                "name": "Daniel R.",
+                "comment": "Great base layer that works perfectly under my winter gear."
+            }
+        ],
+        "price": 54.99,
+        "originalPrice": 74.99,
+        "discount": 27,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Stretch Cargo Pants",
+        "brand": "Urban Utility",
+        "category": "Pants",
+        "color": "Olive Green",
+        "shortDescription": "Functional cargo pants with modern stretch fit",
+        "bigDescription": "Combining practicality with style, these cargo pants feature multiple utility pockets and a modern stretch fit. Made from durable, quick-dry fabric with added stretch for maximum comfort and mobility. Ideal for outdoor adventures or casual everyday wear.",
+        "img1": "https://i.ibb.co.com/7VR9PQ6/download-3.jpg",
+        "img2": "https://i.ibb.co.com/7VR9PQ6/download-3.jpg",
+        "img3": "https://i.ibb.co.com/7VR9PQ6/download-3.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.1kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "45x35x6 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Stretch Cotton Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Brian K.",
+                "comment": "Great pants with plenty of pocket space and comfortable fit."
+            },
+            {
+                "name": "Mike T.",
+                "comment": "Love the stretch fabric and utility design."
+            }
+        ],
+        "price": 79.99,
+        "originalPrice": 99.99,
+        "discount": 20,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Performance Compression Shirt",
+        "brand": "ProFit Gear",
+        "category": "Shirts",
+        "color": "Black",
+        "shortDescription": "High-performance compression shirt for athletes",
+        "bigDescription": "Engineered for peak athletic performance, this compression shirt provides muscle support, moisture-wicking, and temperature regulation. The ergonomic design offers maximum flexibility and comfort during intense workouts or sports activities.",
+        "img1": "https://i.ibb.co.com/SRnNTSh/download-4.jpg",
+        "img2": "https://i.ibb.co.com/SRnNTSh/download-4.jpg",
+        "img3": "https://i.ibb.co.com/SRnNTSh/download-4.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.3kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "40x25x2 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Performance Polyester"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Andrew L.",
+                "comment": "Excellent compression and support during my workouts."
+            },
+            {
+                "name": "Greg M.",
+                "comment": "Comfortable and helps reduce muscle fatigue."
+            }
+        ],
+        "price": 59.99,
+        "originalPrice": 79.99,
+        "discount": 25,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Classic Chino Trousers",
+        "brand": "Refined Wear",
+        "category": "Pants",
+        "color": "Khaki",
+        "shortDescription": "Versatile chino trousers for smart casual styling",
+        "bigDescription": "A wardrobe essential that bridges casual and formal wear. These classic chino trousers feature a tailored fit, premium cotton fabric, and impeccable attention to detail. Perfect for office wear, weekend outings, or smart casual events.",
+        "img1": "https://i.ibb.co.com/gdLcgmc/download-5.jpg",
+        "img2": "https://i.ibb.co.com/gdLcgmc/download-5.jpg",
+        "img3": "https://i.ibb.co.com/gdLcgmc/download-5.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "1.0kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "45x35x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "100% Cotton"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "John D.",
+                "comment": "Great fit and versatile for multiple occasions."
+            },
+            {
+                "name": "Steve R.",
+                "comment": "Comfortable and looks great with different shirts."
+            }
+        ],
+        "price": 89.99,
+        "originalPrice": 119.99,
+        "discount": 25,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Windbreaker Lightweight Jacket",
+        "brand": "Storm Protect",
+        "category": "Jackets",
+        "color": "Navy Blue",
+        "shortDescription": "Lightweight, water-resistant windbreaker for active lifestyles",
+        "bigDescription": "Stay protected from the elements with this ultra-lightweight windbreaker. Features water-resistant fabric, packable design, and adjustable hood. Perfect for outdoor activities, travel, or as a versatile layering piece.",
+        "img1": "https://i.ibb.co.com/Wv7Nr6n/download-6.jpg",
+        "img2": "https://i.ibb.co.com/Wv7Nr6n/download-6.jpg",
+        "img3": "https://i.ibb.co.com/Wv7Nr6n/download-6.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.6kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x40x3 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Lightweight Nylon"
+            },
+            {
+                "label": "Warranty",
+                "value": "2 Years"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Tim W.",
+                "comment": "Great for hiking and outdoor activities. Packs easily in my backpack."
+            },
+            {
+                "name": "Kevin M.",
+                "comment": "Lightweight and effective against wind and light rain."
+            }
+        ],
+        "price": 69.99,
+        "originalPrice": 89.99,
+        "discount": 22,
+        "publicationDate": "2024-11-29"
+    },
+    {
+        "productTitle": "Casual Fit Jogger Pants",
+        "brand": "ActiveLife",
+        "category": "Pants",
+        "color": "Gray",
+        "shortDescription": "Comfortable jogger pants for relaxed styling",
+        "bigDescription": "These jogger pants offer a relaxed fit, ideal for casual outings or lounging at home. Made with a soft cotton blend, they provide maximum comfort while maintaining a stylish look. The elastic waistband and cuffs offer a snug, yet flexible fit.",
+        "img1": "https://i.ibb.co.com/y4hXyx8/download-7.jpg",
+        "img2": "https://i.ibb.co.com/y4hXyx8/download-7.jpg",
+        "img3": "https://i.ibb.co.com/y4hXyx8/download-7.jpg",
+        "additionalInformation": [
+            {
+                "label": "Weight",
+                "value": "0.8kg"
+            },
+            {
+                "label": "Dimensions",
+                "value": "50x35x5 cm"
+            },
+            {
+                "label": "Material",
+                "value": "Cotton-Polyester Blend"
+            },
+            {
+                "label": "Warranty",
+                "value": "1 Year"
+            }
+        ],
+        "reviews": [
+            {
+                "name": "Liam G.",
+                "comment": "Great fit for a casual day. Super comfortable and stylish."
+            },
+            {
+                "name": "Oscar D.",
+                "comment": "Nice material, perfect for lounging around."
+            }
+        ],
+        "price": 49.99,
+        "originalPrice": 69.99,
+        "discount": 29,
+        "publicationDate": "2024-11-29"
+    }
+]
