@@ -16,14 +16,15 @@ const userRoutes = require("./routes/users");
 const offerProductsRoutes = require("./routes/offerProducts");
 const blogsRoutes = require("./routes/blogs");
 const productsRoutes = require("./routes/products");
+const cartsRoutes = require("./routes/carts");
 
 
-// =====================================================================
-// Users
+// ========== routes =================
 app.use("/users", userRoutes);
 app.use("/offerProducts", offerProductsRoutes);
 app.use("/blogs", blogsRoutes);
 app.use("/products", productsRoutes);
+app.use("/carts", cartsRoutes);
 
 
 // Default route for server status
