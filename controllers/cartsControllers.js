@@ -1,5 +1,5 @@
 const { client, ObjectId } = require("../config/database")
-const cartsCollection = client.db("hektoDB").collection("carts");
+const cartsCollection = client.db("bazaarNestDB").collection("carts");
 
 // POST /carts
 exports.addCart = async (req, res) => {

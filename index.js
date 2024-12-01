@@ -31,7 +31,7 @@ app.use("/orders", ordersRoutes);
 
 // Default route for server status
 app.get("/", (req, res) => {
-    res.send("Hekto Com Server Is Running!");
+    res.send("BazaarNest Server Is Running!");
 });
 
 // Start the server

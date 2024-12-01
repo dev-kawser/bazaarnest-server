@@ -1,5 +1,5 @@
 const { client, ObjectId } = require("../config/database")
-const blogsCollection = client.db("hektoDB").collection("blogs");
+const blogsCollection = client.db("bazaarNestDB").collection("blogs");
 
 // get all blog
 exports.getAllBlogs = async (req, res) => {

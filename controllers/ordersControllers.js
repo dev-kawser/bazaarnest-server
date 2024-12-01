@@ -1,5 +1,5 @@
 const { client, ObjectId } = require("../config/database")
-const ordersCollection = client.db("hektoDB").collection("orders");
+const ordersCollection = client.db("bazaarNestDB").collection("orders");
 
 // Post orders
 exports.postOrder = async (req, res) => {
