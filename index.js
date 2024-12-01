@@ -17,6 +17,7 @@ const offerProductsRoutes = require("./routes/offerProducts");
 const blogsRoutes = require("./routes/blogs");
 const productsRoutes = require("./routes/products");
 const cartsRoutes = require("./routes/carts");
+const ordersRoutes = require("./routes/orders");
 
 
 // ========== routes =================
@@ -25,6 +26,7 @@ app.use("/offerProducts", offerProductsRoutes);
 app.use("/blogs", blogsRoutes);
 app.use("/products", productsRoutes);
 app.use("/carts", cartsRoutes);
+app.use("/orders", ordersRoutes);
 
 
 // Default route for server status
