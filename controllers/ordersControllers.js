@@ -70,3 +70,26 @@ exports.updateOrderStatus = async (req, res) => {
         res.status(500).json({ message: "Failed to update order status" });
     }
 };
+
+// Get order by id
+exports.getOrderById = async (req, res) => {
+    try {
+        const orderId = req.params.id;
+
+        if (!ObjectId.isValid(orderId)) {
+            return res.status(400).json({ message: "Invalid order ID" });
+        }
+
+        const result = await ordersCollection.findOne({ _id: new ObjectId(orderId) });
+
+        if (!result) {
+            return res.status(404).json({ message: "Order not found" });
+        }
+
+        res.json(result);
+
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Failed to fetch order" });
+    }
+}
