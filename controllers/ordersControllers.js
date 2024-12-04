@@ -44,3 +44,29 @@ exports.getOrdersByEmail = async (req, res) => {
         res.status(500).json({ message: "Failed to fetch orders" });
     }
 }
+
+// Update order status
+exports.updateOrderStatus = async (req, res) => {
+    try {
+        const { orderId, newStatus } = req.body;
+
+        if (!ObjectId.isValid(orderId)) {
+            return res.status(400).json({ message: "Invalid order ID" });
+        }
+
+        const filter = { _id: new ObjectId(orderId) };
+        const update = { $set: { status: newStatus } };
+
+        const result = await ordersCollection.updateOne(filter, update);
+
+        if (result.modifiedCount === 0) {
+            return res.status(404).json({ message: "Order not found or status not updated" });
+        }
+
+        res.json({ message: "Order status updated successfully", result });
+
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Failed to update order status" });
+    }
+};
