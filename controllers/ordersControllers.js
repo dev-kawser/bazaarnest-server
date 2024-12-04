@@ -14,6 +14,18 @@ exports.postOrder = async (req, res) => {
     }
 }
 
+// Get all orders
+exports.getAllOrders = async (req, res) => {
+    try {
+        const result = await ordersCollection.find().toArray();
+        res.json(result);
+
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Failed to fetch orders" });
+    }
+}
+
 // Get orders by user email
 exports.getOrdersByEmail = async (req, res) => {
     try {
