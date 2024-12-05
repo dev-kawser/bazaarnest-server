@@ -1,6 +1,28 @@
 const { client, ObjectId } = require("../config/database")
 const productsCollection = client.db("bazaarNestDB").collection("products");
 
+
+// Post a new product
+exports.addProduct = async (req, res) => {
+    const product = req.body;
+
+    if (!product) {
+        return res.status(400).json({ message: "Missing required fields" });
+    }
+
+    try {
+        const result = await productsCollection.insertOne(product);
+
+        res.status(201).json({
+            message: "Product added successfully",
+            productId: result.insertedId
+        });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Error adding product" });
+    }
+};
+
 // get all products
 exports.getAllProducts = async (req, res) => {
     try {
