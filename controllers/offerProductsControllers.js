@@ -1,7 +1,7 @@
 const { client, ObjectId } = require("../config/database")
 const offerProductsCollection = client.db("bazaarNestDB").collection("offerProducts");
 
-// Post a new product
+// Post a new offer product
 exports.addOfferProduct = async (req, res) => {
     const offerProduct = req.body;
 
@@ -48,5 +48,23 @@ exports.getOfferProductById = async (req, res) => {
     } catch (error) {
         console.error(error);
         res.status(500).json({ message: "Error fetching offer product" });
+    }
+};
+
+// delete product by ID
+exports.deleteOfferProductById = async (req, res) => {
+    const productId = req.params.id;
+
+    try {
+        const result = await offerProductsCollection.deleteOne({ _id: new ObjectId(productId) });
+
+        if (result.deletedCount === 0) {
+            return res.status(404).json({ message: "Offer Product not found" });
+        }
+
+        res.status(200).json({ message: "Offer Product deleted successfully" });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Error deleting product" });
     }
 };
