@@ -51,3 +51,29 @@ exports.getProductById = async (req, res) => {
         res.status(500).json({ message: "Error fetching product" });
     }
 };
+
+// update product by ID
+exports.updateProductById = async (req, res) => {
+    const productId = req.params.id;
+    const updatedProduct = req.body;
+
+    if (!updatedProduct) {
+        return res.status(400).json({ message: "Missing required fields" });
+    }
+
+    try {
+        const result = await productsCollection.updateOne(
+            { _id: new ObjectId(productId) },
+            { $set: updatedProduct }
+        );
+
+        if (result.modifiedCount === 0) {
+            return res.status(404).json({ message: "Product not found" });
+        }
+
+        res.status(200).json({ message: "Product updated successfully" });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Error updating product" });
+    }
+};
