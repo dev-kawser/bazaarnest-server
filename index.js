@@ -8,7 +8,12 @@ const port = process.env.PORT || 5000;
 
 clientDatabase()
 
-app.use(cors());
+const corsOptions = {
+    origin: ["https://bazaarnest.vercel.app", "http://localhost:5173"],
+    methods: "GET,POST,PUT,DELETE,PATCH",
+    allowedHeaders: ["Content-Type", "Authorization"],
+};
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Import route files
