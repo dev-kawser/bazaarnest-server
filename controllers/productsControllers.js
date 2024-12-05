@@ -77,3 +77,21 @@ exports.updateProductById = async (req, res) => {
         res.status(500).json({ message: "Error updating product" });
     }
 };
+
+// delete product by ID
+exports.deleteProductById = async (req, res) => {
+    const productId = req.params.id;
+
+    try {
+        const result = await productsCollection.deleteOne({ _id: new ObjectId(productId) });
+
+        if (result.deletedCount === 0) {
+            return res.status(404).json({ message: "Product not found" });
+        }
+
+        res.status(200).json({ message: "Product deleted successfully" });
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ message: "Error deleting product" });
+    }
+};
