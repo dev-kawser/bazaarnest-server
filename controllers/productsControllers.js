@@ -62,13 +62,16 @@ exports.updateProductById = async (req, res) => {
     }
 
     try {
+        // Exclude the `_id` field to prevent modification
+        const { _id, ...fieldsToUpdate } = updatedProduct;
+
         const result = await productsCollection.updateOne(
             { _id: new ObjectId(productId) },
-            { $set: updatedProduct }
+            { $set: fieldsToUpdate }
         );
 
         if (result.modifiedCount === 0) {
-            return res.status(404).json({ message: "Product not found" });
+            return res.status(404).json({ message: "Product not found or no changes made" });
         }
 
         res.status(200).json({ message: "Product updated successfully" });
